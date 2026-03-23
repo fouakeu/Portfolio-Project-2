@@ -8,6 +8,10 @@ AirBnB Full  Data Visualization with tableau
 
 In this project we carried out a complete visualization of Airbnb data from the city of Seattle, in the United States, using Tableau Software.
 
+# Stack:
+
+Tableau Software
+
 # Data source:
 
 This project contains visualizations made with Tableau.
