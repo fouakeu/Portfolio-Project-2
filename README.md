@@ -1,9 +1,14 @@
 # Portfolio-Project-2
-AirBnB   Full project Data Visualization with tableau
 
-####################################################################################################
+# Project: 
 
-# Airbnb Data Visualization with Tableau
+AirBnB Full  Data Visualization with tableau
+
+# GOAL: 
+
+In this project we carried out a complete visualization of Airbnb data from the city of Seattle, in the United States, using Tableau Software.
+
+# Data source:
 
 This project contains visualizations made with Tableau.
 
